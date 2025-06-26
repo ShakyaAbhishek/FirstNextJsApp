@@ -1,1 +1,2 @@
 # FirstNextJsApp
+next js applicaiton
